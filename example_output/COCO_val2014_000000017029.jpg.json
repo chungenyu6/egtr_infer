@@ -1,0 +1,157 @@
+{
+    "obj_0.1_rel_1e-05_topk_20": {
+        "parameters": {
+            "obj_threshold": 0.1,
+            "rel_threshold": 1e-05,
+            "top_k": 20
+        },
+        "image_name": "COCO_val2014_000000017029.jpg",
+        "triplets": [
+            {
+                "subject": "dog",
+                "predicate": "has",
+                "object": "head",
+                "score": 0.013947765342891216
+            },
+            {
+                "subject": "car",
+                "predicate": "behind",
+                "object": "dog",
+                "score": 0.004775929264724255
+            },
+            {
+                "subject": "dog",
+                "predicate": "has",
+                "object": "leg",
+                "score": 0.004635548684746027
+            },
+            {
+                "subject": "head",
+                "predicate": "of",
+                "object": "dog",
+                "score": 0.004059816710650921
+            },
+            {
+                "subject": "dog",
+                "predicate": "has",
+                "object": "paw",
+                "score": 0.002489697653800249
+            },
+            {
+                "subject": "tire",
+                "predicate": "on",
+                "object": "car",
+                "score": 0.00240626884624362
+            },
+            {
+                "subject": "dog",
+                "predicate": "has",
+                "object": "ear",
+                "score": 0.0019994359463453293
+            },
+            {
+                "subject": "tire",
+                "predicate": "on",
+                "object": "car",
+                "score": 0.0008687811787240207
+            },
+            {
+                "subject": "leg",
+                "predicate": "of",
+                "object": "dog",
+                "score": 0.0007268621702678502
+            },
+            {
+                "subject": "car",
+                "predicate": "behind",
+                "object": "dog",
+                "score": 0.0005158291314728558
+            },
+            {
+                "subject": "paw",
+                "predicate": "of",
+                "object": "dog",
+                "score": 0.0004896363243460655
+            },
+            {
+                "subject": "dog",
+                "predicate": "has",
+                "object": "paw",
+                "score": 0.0004891140852123499
+            },
+            {
+                "subject": "ear",
+                "predicate": "of",
+                "object": "dog",
+                "score": 0.00040225381962955
+            },
+            {
+                "subject": "tree",
+                "predicate": "behind",
+                "object": "dog",
+                "score": 0.00035634124651551247
+            },
+            {
+                "subject": "car",
+                "predicate": "has",
+                "object": "tire",
+                "score": 0.00029371262644417584
+            },
+            {
+                "subject": "car",
+                "predicate": "has",
+                "object": "tire",
+                "score": 0.00026998622342944145
+            },
+            {
+                "subject": "dog",
+                "predicate": "has",
+                "object": "paw",
+                "score": 0.0002282987697981298
+            },
+            {
+                "subject": "tire",
+                "predicate": "on",
+                "object": "car",
+                "score": 0.00020321526972111315
+            },
+            {
+                "subject": "paw",
+                "predicate": "of",
+                "object": "dog",
+                "score": 0.00014343546354211867
+            },
+            {
+                "subject": "dog",
+                "predicate": "has",
+                "object": "leg",
+                "score": 0.00011526104935910553
+            }
+        ],
+        "subjects": [
+            "car",
+            "dog",
+            "ear",
+            "head",
+            "leg",
+            "paw",
+            "tire",
+            "tree"
+        ],
+        "predicates": [
+            "behind",
+            "has",
+            "of",
+            "on"
+        ],
+        "objects": [
+            "car",
+            "dog",
+            "ear",
+            "head",
+            "leg",
+            "paw",
+            "tire"
+        ]
+    }
+}
